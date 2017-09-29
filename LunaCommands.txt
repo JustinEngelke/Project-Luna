@@ -1,0 +1,19 @@
+[Open] Application Name
+[Close] Closes Luna
+[Minimize] Minimizes Luna
+[Fullscreen] Maximizes Luna
+[What is the time] Tells the time
+[Create a calender event] Creates an event in the calender
+[Shut down pc] Shuts down with pc
+[what is your name] responds with Luna
+[What can you do] Displays list of commands
+[I want to LAN] Open console/show IP/Firewall status/ping command
+[Who created you] two losers who think they are smart
+[Open Website] opens websites
+[Set an Alarm] sets an alarm
+[Take a note] takes down note
+[Open folder] opens folders
+[Check Wifi connection] Checks connection
+[Hello Luna] Activates Luna
+
+
